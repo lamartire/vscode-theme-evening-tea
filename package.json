@@ -1,0 +1,22 @@
+{
+    "name": "evening-tea-theme",
+    "displayName": "Evening Tea",
+    "description": "Minimalistic dark theme which cares about your eyes",
+    "version": "0.0.1",
+    "publisher": "lamartire",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Evening tea",
+                "uiTheme": "vs-dark",
+                "path": "./themes/evening-tea-theme.json"
+            }
+        ]
+    }
+}
