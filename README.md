@@ -1,4 +1,7 @@
 # README
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/lamartire/vscode-theme-evening-tea.svg)](https://greenkeeper.io/)
+
 ## This is the README for your extension "tar-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
